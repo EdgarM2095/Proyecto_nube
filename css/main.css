@@ -1,0 +1,12 @@
+body {
+    background-color: #ec4f4f; /* Cambia el color de fondo */
+    color: #333; /* Cambia el color del texto */
+}
+
+.navbar {
+    background-color: #d7e4f3; /* Cambia el color de la barra de navegación */
+}
+
+a {
+    color: #ff5733; /* Cambia el color de los enlaces */
+}
