@@ -6,6 +6,7 @@ import { create } from 'express-handlebars';
 import morgan from "morgan";
 import authRoutes from './routes/auth'; 
 
+
 const app = express();
 
 app.set("views", path.join(__dirname, "views"));

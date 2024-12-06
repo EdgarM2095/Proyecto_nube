@@ -42,6 +42,7 @@ router.post('/proveedores/edit/:id', editProveedor);
 router.get('/proveedores/delete/:id', deleteProveedor);
 router.get('/about', aboutProveedor);
 
+
 router.get("/", renderIndex);
 router.get('/menu', (req, res) => {
     res.render('menu'); 
